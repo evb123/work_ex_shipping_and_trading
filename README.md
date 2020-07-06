@@ -1,6 +1,6 @@
 # work_ex_shipping_and_trading
 
-Project examples with dummy data have been completed mostly while working in the shipping and trading industry.
+Project examples with dummy data have been completed mostly while working in the shipping and trading industry (Apr 2019 - present).
 
 Folder guide:
 
